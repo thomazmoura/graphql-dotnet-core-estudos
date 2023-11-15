@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: produto-api-deployment # nome do deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: produto-api # tag para selecionar os pods desda implantação
+  template:
+    metadata:
+      labels:
+        app: produto-api # tag aplicada no deploy
+    spec:
+      containers:
+      - name: produto-api-container
+        image: web-api:latest
+        imagePullPolicy: Never
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
