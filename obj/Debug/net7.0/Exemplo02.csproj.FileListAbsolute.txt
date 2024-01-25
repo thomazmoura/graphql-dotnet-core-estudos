@@ -1,10 +1,3 @@
-C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.csproj.AssemblyReference.cache
-C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.AssemblyInfoInputs.cache
-C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.AssemblyInfo.cs
-C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.csproj.CoreCompileInputs.cache
-C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\bin\Debug\net7.0\appsettings.json
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\bin\Debug\net7.0\Exemplo02.exe
@@ -46,6 +39,13 @@ C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\bin\Debug\net7.0\Swas
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\bin\Debug\net7.0\System.IO.Hashing.dll
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.csproj.AssemblyReference.cache
+C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.AssemblyInfoInputs.cache
+C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.AssemblyInfo.cs
+C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\Exemplo02.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\staticwebassets\msbuild.Exemplo02.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\staticwebassets\msbuild.build.Exemplo02.props
 C:\Users\Raquel\Documents\Estudos\Docker\GraphQL\Exemplo02\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exemplo02.props

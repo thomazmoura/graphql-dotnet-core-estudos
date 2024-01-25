@@ -22,6 +22,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// builder.WebHost.UseUrls("http://*:5254;");
+    
 
 var app = builder.Build();
 

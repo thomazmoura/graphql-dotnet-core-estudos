@@ -7,7 +7,7 @@ COPY *.csproj ./
 RUN dotnet restore
 
 # Copy the rest of the application code
-COPY . .
+COPY . /app
 
 # Publish the application
 RUN dotnet publish -c Release -o out
@@ -16,8 +16,11 @@ RUN dotnet publish -c Release -o out
 FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/out ./
+# ENV ASPNETCORE_URLS='http://*:5254'
 
 # Expose the port your application will run on
+# EXPOSE 5254
+
 EXPOSE 80
 
 # Start the application
