@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web-api-container
-        image: weather-image:latest
+        image: web-api-image:latest
         imagePullPolicy: Never
         resources:
           limits:
