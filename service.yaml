@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: produto-api-service
+  name: web-api-service
 spec: # Descreve o estado desejado do serviço
   selector:
-    app: produto-api # para destinar os pods com esta tag
+    app: web-api-pod # para destinar os pods com esta tag
   ports:
   - protocol: TCP
     port: 80

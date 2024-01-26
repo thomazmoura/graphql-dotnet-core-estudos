@@ -1,20 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: produto-api-deployment # nome do deployment
+  name: web-api-deployment # nome do deployment
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: produto-api # tag para selecionar os pods desda implantação
+      app: web-api # tag para selecionar os pods desda implantação
   template:
     metadata:
       labels:
-        app: produto-api # tag aplicada no deploy
+        app: web-api # tag aplicada no deploy
     spec:
       containers:
-      - name: produto-api-container
-        image: web-api:latest
+      - name: web-api-container
+        image: weather-image:latest
         imagePullPolicy: Never
         resources:
           limits:
